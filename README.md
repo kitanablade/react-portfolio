@@ -1,9 +1,9 @@
-# Reac-based Portfolio
+# React-based Portfolio
 
 ![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/l/notepad4e?color=red)
+
 ## Description 
 This is personal portfolio that uses REACT.
-
 ```md
 AS AN employer looking for candidates with experience building single-page applications
 I WANT to view a potential employee's deployed React portfolio of work samples

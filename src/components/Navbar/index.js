@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function Navbar() {
-  const linkStyle = { border: "1px black", padding: "5px" };
+  //const linkStyle = { border: "1px black", padding: "5px" };
 
   return (
     <nav className="navbar navbar-expand-lg bg-light">

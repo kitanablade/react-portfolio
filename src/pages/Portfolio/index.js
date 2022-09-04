@@ -1,10 +1,6 @@
 import React from "react";
 
 export default function Portfolio() {
-  // function activateLasers(e){
-  //     e.preventDefault();
-  //     console.log("LASERS ACTIVATED!!!");
-  // }
   return (
     <div className="container">
       <div className="row">

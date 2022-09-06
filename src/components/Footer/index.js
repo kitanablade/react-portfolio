@@ -3,7 +3,8 @@ import "./style.css";
 
 export default function Footer() {
   return (
-    <footer className="navbar navbar-fixed-bottom">
+    // className="navbar navbar-fixed-bottom position-absolute"
+    <footer>
       <div className="row justify-content-center">
         <div className="col-1">
           <a href="https://github.com/kitanablade">
@@ -16,7 +17,7 @@ export default function Footer() {
         </div>
         <div className="col-1">
           {" "}
-          <a href="www.linkedin.com/in/kit-williams-webdev">
+          <a href="https://www.linkedin.com/in/kit-williams-webdev">
           <img
             className="img-fluid"
             src="images/LinkedIn/LI-In-Bug.png"
